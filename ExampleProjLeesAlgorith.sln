@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleProjLeesAlgorith", "ExampleProjLeesAlgorith.csproj", "{51FC3A87-0B5C-4CB4-BFA6-5E1B6D112770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51FC3A87-0B5C-4CB4-BFA6-5E1B6D112770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FC3A87-0B5C-4CB4-BFA6-5E1B6D112770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FC3A87-0B5C-4CB4-BFA6-5E1B6D112770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FC3A87-0B5C-4CB4-BFA6-5E1B6D112770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {093F512D-DBC6-4CA9-B564-3B5A993495EC}
+	EndGlobalSection
+EndGlobal
